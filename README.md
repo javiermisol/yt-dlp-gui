@@ -2,6 +2,7 @@
 ## A cross-platform GUI wrapper for yt-dlp written in PySide6
 
 ### Autor original del projecto: dsymbol --> https://github.com/dsymbol/yt-dlp-gui
+### Mas informacion en la web https://ytdlp.online/
 
 *** yt-dlp-gui for Windows ***  
 
