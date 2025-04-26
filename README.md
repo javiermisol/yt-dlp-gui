@@ -4,7 +4,13 @@ A cross-platform GUI wrapper for yt-dlp written in PySide6
 Autor original del projecto: dsymbol --> https://github.com/dsymbol/yt-dlp-gui
 
 
-yt-dlp-gui_IIh3zdoGPn.png
+[yt-dlp-gui_IIh3zdoGPn.png
+]([https://github.com/javiermisol/yt-dlp-gui/blob/main/yt-dlp-gui_001.png](https://github.com/javiermisol/yt-dlp-gui/blob/main/yt-dlp-gui_IIh3zdoGPn.png
+)
+
+[yt-dlp-gui_001.png
+](https://github.com/javiermisol/yt-dlp-gui/blob/main/yt-dlp-gui_001.png)
+
 
 Haciendo facil su instalación.
 Paqueteria debian/Ubuntu/LinuxMint/derivados
