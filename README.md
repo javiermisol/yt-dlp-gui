@@ -12,6 +12,8 @@
 ![Screenshot yt-dlp-gui for Linux](https://github.com/javiermisol/yt-dlp-gui/blob/main/yt-dlp-gui_001.png)
 
 
-Haciendo facil su instalación.
-Paqueteria debian/Ubuntu/LinuxMint/derivados
-Ejecutable instalador del yt-dlp-gui instalar con simple clicks en Windows.
+### Haciendo facil su instalación.
+
+### Paqueteria debian/Ubuntu/LinuxMint/derivados
+
+### Ejecutable instalador del yt-dlp-gui instalar con simple clicks en Windows.
