@@ -5,7 +5,7 @@
 
 *** yt-dlp-gui for Windows ***  
 
-![Screenshot yt-dlp-gui for Windows](https://github.com/javiermisol/yt-dlp-gui/blob/main/yt-dlp-gui_IIh3zdoGPn.png)
+![Screenshot yt-dlp-gui for Windows](https://raw.githubusercontent.com/javiermisol/yt-dlp-gui/refs/heads/main/yt-dlp-gui_30gVYWsq6o.png)
 
 *** yt-dlp-gui for Linux ***
  
