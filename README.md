@@ -13,6 +13,8 @@
 ![Screenshot yt-dlp-gui for Linux](https://github.com/javiermisol/yt-dlp-gui/blob/main/yt-dlp-gui_001.png)
 
 
+https://github.com/javiermisol/yt-dlp-gui/blob/main/yt-dlp-gui_5tWKwj7vzW.mp4
+
 ### Haciendo facil su instalación.
 
 ### Paqueteria debian/Ubuntu/LinuxMint/derivados
