@@ -1,0 +1,8 @@
+Package: yt-dlp-gui
+Version: 2025.03.11
+Maintainer: dsymbol <[@]>
+Architecture: amd64
+Priority: optional
+Depends: python3 (>=3.12.3), python3-qtpy (>=2.4.1-2)
+Description: yt-dlp-gui
+ A cross-platform GUI wrapper for yt-dlp written in PySide6
