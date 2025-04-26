@@ -1,0 +1,100 @@
+[DEBREATE-0.8-dev9]
+<<CTRL>>
+Package: yt-dlp-gui
+Version: 2025.03.11
+Maintainer: dsymbol <[@]>
+Architecture: amd64
+Priority: optional
+Depends: python3 (>=3.12.3), python3-qtpy (>=2.4.1-2)
+Description: yt-dlp-gui
+ A cross-platform GUI wrapper for yt-dlp written in PySide6
+<</CTRL>>
+<<FILES>>
+1
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui* -> yt-dlp-gui -> /usr/bin
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui.png* -> yt-dlp-gui.png -> /usr/share/pixmaps
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui.png* -> yt-dlp-gui.png -> /usr/share/yt-dlp-gui/__pycache__
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/__pycache__/dep_dl.cpython-312.pyc* -> dep_dl.cpython-312.pyc -> /usr/share/yt-dlp-gui/__pycache__
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/__pycache__/utils.cpython-312.pyc* -> utils.cpython-312.pyc -> /usr/share/yt-dlp-gui/__pycache__
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/__pycache__/worker.cpython-312.pyc* -> worker.cpython-312.pyc -> /usr/share/yt-dlp-gui/__pycache__
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/ui/assets/add.png* -> add.png -> /usr/share/yt-dlp-gui/ui/assets
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/ui/assets/clear.png* -> clear.png -> /usr/share/yt-dlp-gui/ui/assets
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/ui/assets/download.png* -> download.png -> /usr/share/yt-dlp-gui/ui/assets
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/ui/assets/icons.qrc* -> icons.qrc -> /usr/share/yt-dlp-gui/ui/assets
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/ui/assets/icons_rc.py* -> icons_rc.py -> /usr/share/yt-dlp-gui/ui/assets
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/ui/assets/yt-dlp-gui.ico* -> yt-dlp-gui.ico -> /usr/share/yt-dlp-gui/ui/assets
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/ui/assets/yt-dlp-gui.png* -> yt-dlp-gui.png -> /usr/share/yt-dlp-gui/ui/assets
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/ui/__pycache__/app_ui.cpython-312.pyc* -> app_ui.cpython-312.pyc -> /usr/share/yt-dlp-gui/ui/__pycache__
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/ui/__pycache__/download_ui.cpython-312.pyc* -> download_ui.cpython-312.pyc -> /usr/share/yt-dlp-gui/ui/__pycache__
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/ui/__pycache__/icons_rc.cpython-312.pyc* -> icons_rc.cpython-312.pyc -> /usr/share/yt-dlp-gui/ui/__pycache__
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/ui/app.ui* -> app.ui -> /usr/share/yt-dlp-gui/ui
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/ui/app_ui.py* -> app_ui.py -> /usr/share/yt-dlp-gui/ui
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/ui/download.ui* -> download.ui -> /usr/share/yt-dlp-gui/ui
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/ui/download_ui.py* -> download_ui.py -> /usr/share/yt-dlp-gui/ui
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/ui/icons_rc.py* -> icons_rc.py -> /usr/share/yt-dlp-gui/ui
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/app.py* -> app.py -> /usr/share/yt-dlp-gui
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/config.toml* -> config.toml -> /usr/share/yt-dlp-gui
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/debug.log* -> debug.log -> /usr/share/yt-dlp-gui
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/dep_dl.py* -> dep_dl.py -> /usr/share/yt-dlp-gui
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/utils.py* -> utils.py -> /usr/share/yt-dlp-gui
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/worker.py* -> worker.py -> /usr/share/yt-dlp-gui
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/yt-dlp-gui* -> yt-dlp-gui -> /usr/share/yt-dlp-gui
+/media/jefedesala/Orico-3/Descargas/yt-dlp-gui/yt-dlp-gui--/yt-dlp-gui.png* -> yt-dlp-gui.png -> /usr/share/yt-dlp-gui
+<</FILES>>
+<<SCRIPTS>>
+<<PREINST>>
+0
+<</PREINST>>
+<<POSTINST>>
+0
+<</POSTINST>>
+<<PRERM>>
+0
+<</PRERM>>
+<<POSTRM>>
+0
+<</POSTRM>>
+<</SCRIPTS>>
+<<CHANGELOG>>
+<<DEST>>DEFAULT<</DEST>>
+
+<</CHANGELOG>>
+<<COPYRIGHT>>
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
+
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to <https://unlicense.org>
+<</COPYRIGHT>>
+<<MENU>>
+1
+Name=yt-dlp-gui
+Version=1.0
+Exec=/usr/bin/yt-dlp-gui
+Comment=A cross-platform GUI wrapper for yt-dlp written in PySide6
+Icon=/usr/share/pixmaps/yt-dlp-gui.png
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=AudioVideo;Video;
+<</MENU>>

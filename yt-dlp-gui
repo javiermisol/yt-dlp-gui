@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /usr/share/yt-dlp-gui/
+python app.py
+

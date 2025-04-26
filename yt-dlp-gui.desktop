@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=yt-dlp-gui
+Version=1.0
+Exec=/usr/bin/yt-dlp-gui
+Comment=A cross-platform GUI wrapper for yt-dlp written in PySide6
+Icon=/usr/share/pixmaps/yt-dlp-gui.png
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=AudioVideo;Video;
