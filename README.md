@@ -15,6 +15,20 @@
 ![Screenshot yt-dlp-gui](https://github.com/javiermisol/yt-dlp-gui/blob/main/yt-dlp-gui_5tWKwj7vzW.mp4)
 
 
+En el caso de que despues de instalar no se inicia al ejecutar, la solucion es que hay darles permisos:
+
+En Linux:
+Ejecutar el gestor de archivos en modo Administrador:
+ej: sudo caja --> añadir contraseña.
+ej: sudo nautilus --> añadir contraseña
+
+/usr/share/yt-dlp-gui
+![Screenshot yt-dlp-gui for Linux](https://github.com/javiermisol/yt-dlp-gui/blob/main/Permissions1.png)
+
+/usr/share/yt-dlp-gui/ui
+![Screenshot yt-dlp-gui for Linux](https://github.com/javiermisol/yt-dlp-gui/blob/main/Permissions2.png)
+
+
 ### Haciendo facil su instalación.
 
 ### Paqueteria debian/Ubuntu/LinuxMint/derivados
