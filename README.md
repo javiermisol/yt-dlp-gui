@@ -12,7 +12,7 @@
  
 ![Screenshot yt-dlp-gui for Linux](https://github.com/javiermisol/yt-dlp-gui/blob/main/yt-dlp-gui_001.png)
 
-![Screenshot yt-dlp-gui](https://github.com/javiermisol/yt-dlp-gui/blob/main/yt-dlp-gui_5tWKwj7vzW.mp4)
+![Screenshot yt-dlp-gui](https://github.com/javiermisol/yt-dlp-gui/blob/main//yt-dlp-gui_5tWKwj7vzW.gif)
 
 
 ### En el caso de que despues de instalar no se inicia al ejecutar, la solucion es que hay darles permisos:###
